@@ -15,6 +15,7 @@ import Paiement_facture from "./components/paiement_facture";
 import Profil_entraineur from "./components/profil_entraineur";
 import Profil_joueur from "./components/profil_joueur_photos";
 import Matchs_en_cours from "./components/matchs_en_cours";
+import Details_match from "./components/matchs_details";
 export default function App() {
   return <BrowserRouter>
     <Routes>
@@ -33,6 +34,7 @@ export default function App() {
       <Route path="/profil_entraineur" element={<Profil_entraineur/>}></Route>
       <Route path="/profil_joueur" element={<Profil_joueur/>}></Route>
       <Route path="/matchs_en_cours" element={<Matchs_en_cours/>}></Route>
+      <Route path="/matchs_details" element={<Details_match/>}></Route>
 
       <Route path="/test" element={<Test/>}></Route>
     </Routes>
