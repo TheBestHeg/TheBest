@@ -83,7 +83,7 @@ const Profil_joueur = () => {
       </div>
     </nav>
     <div className="flex flex-row justify-center md:gap-24 gap-4 mx-4">
-      <div><img src="img/steve-rouiller.jpg" />
+      <div><img src="images/steve-rouiller.jpg" />
         <br />
         <h2 className="text-center text-base font-bold my-6">Steve Rouiller</h2>
         <h3 className="text-center text-ls my-6">Joueur</h3>

@@ -84,9 +84,9 @@ const Details_match = () => {
     </nav>
     <h1 className="text-center text-2xl font-bold my-6">Feuille de match</h1>
     <div className="flex flex-row gap-6 justify-center">
-      <img src="img/sfc.jpg" className="h-24 w-24" />
+      <img src="images/sfc.jpg" className="h-24 w-24" />
       <h1 className="text-7xl font-bold">2 - 1</h1>
-      <img src="img/basel.png" className="h-24 w-24" />
+      <img src="images/basel.png" className="h-24 w-24" />
     </div>
     <div className="flex flex-row justify-center my-2">
       <div className="flex flex-col gap-2 my-6">
