@@ -1,0 +1,20 @@
+django==4.0.4
+djangorestframework==3.13.1
+psycopg2==2.9.3
+django-polymorphic==3.1.0
+django-filter==21.1
+django-cors-headers==3.12.0
+gunicorn==20.1.0
+Pillow==9.1.1
+SQLAlchemy==1.4.36
+
+
+# django
+# djangorestframework
+# psycopg2
+# django-polymorphic
+# django-filter
+# django-cors-headers
+# gunicorn==20.1.0
+# Pillow
+# SQLAlchemy
